@@ -8,7 +8,7 @@ This tutorial will take you through the process of building your first dapp---an
 
 ## App Interface
 
-![petshop](C:\Users\umair\OneDrive\Pictures\Screenshots/petshop.png)
+![petshop](C:\Users\umair\OneDrive\Pictures\Screenshots\petshop.png)
 
 ## Prerequisites
 
