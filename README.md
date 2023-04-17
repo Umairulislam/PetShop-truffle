@@ -7,8 +7,7 @@ Pete Scandlon of Pete's Pet Shop is interested in using Ethereum as an efficient
 This tutorial will take you through the process of building your first dapp---an adoption tracking system for a pet shop!
 
 ## App Interface
-
-![petshop](C:\Users\umair\OneDrive\Pictures\Screenshots\petshop.png)
+![petshop](https://user-images.githubusercontent.com/64442665/232391702-9979ecfa-9638-4b5f-ab6d-8ec6abcf6525.png)
 
 ## Prerequisites
 
